@@ -1,3 +1,5 @@
+# Author: Ihsin Yao
+
 # load the dplyr package
 library("dplyr")
 
